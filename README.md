@@ -1,2 +1,2 @@
 # datasets
-DataSets
+- datasets for the e-commerce notebook analysis
